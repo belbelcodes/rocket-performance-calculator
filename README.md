@@ -1,7 +1,6 @@
-# Simple Rocket Thrust Calculator 🚀
+# Simple Rocket Thrust Calculator 
 
-This is my first propulsion-related project on GitHub!  
-It calculates rocket engine thrust using the basic rocket thrust equation:
+Calculates rocket engine thrust using the basic rocket thrust equation:
 
 **F = mdot * Ve + (Pe - Pa) * Ae**
 
